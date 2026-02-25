@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桜の戦略（feat. マス）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T07:19:25.993168Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜の戦略 (feat. マス)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_桜の戦略_(feat._マス)_MIMI.txt"
+    }
+  ]
+}
